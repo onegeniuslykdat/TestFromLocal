@@ -1,0 +1,3 @@
+Step 1: Create online repo
+Step 2: Initialize local repo
+Step 3: Add and Commit files to local repo
