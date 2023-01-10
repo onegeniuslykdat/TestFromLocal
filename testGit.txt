@@ -3,3 +3,4 @@ Step 2: Initialize local repo
 Step 3: Add and Commit files to local repo
 Step 4: Use git push --set-upstream <repoUrl> <branchName>
 Step 5: Complete Pull Request on Remote Repo
+Alt Steps:
